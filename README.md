@@ -4,14 +4,11 @@ This script loads file with json data and print pretty output
 
 # Quickstart
 
-[TODO]
-
 Example of script launch on Linux, Python 3.5:
 
 ```#!bash
 
 $ python pprint_json.py <path to file>
-# TODO add output example
 
 {
     "glossary": {
